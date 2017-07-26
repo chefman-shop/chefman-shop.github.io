@@ -4,7 +4,6 @@ $_['heading_title']    = 'Coupons Report';
 
 // Text
 $_['text_extension']   = 'Extensions';
-$_['text_edit']        = 'Edit Coupons Report';
 $_['text_success']     = 'Success: You have modified coupon report!';
 $_['text_filter']      = 'Filter';
 
